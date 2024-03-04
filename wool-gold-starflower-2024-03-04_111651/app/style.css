@@ -1,0 +1,94 @@
+.cty{
+  h1{
+   font-size: 70px;
+  }
+  strong {
+  color: blue;
+}
+  p{
+    font-size: 20px;
+  }
+}
+.viettien{
+  button{
+    background-color: #000000;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 20px;
+  }
+}
+.tag{
+  button {
+  background-color: #99FF66;
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: white;
+ }
+}
+.text{
+  margin: 0 200px;
+}
+.doc{
+  button {
+  background-color: blue;
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: white;
+ }
+}
+.coffee{
+  background-image: url("https://cdn.glitch.global/26522414-e398-4047-b061-a883e37517fd/c%C3%A0%20ph%C3%AA.jpg?v=1709486938469");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding:150px;
+  height: 50vh;
+  background-position: center center;
+  color: white;
+}
+.dk{
+  button {
+  background-color: red;
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: white;
+ }
+}
+.vutru{
+  background-image: url("https://cdn.glitch.global/26522414-e398-4047-b061-a883e37517fd/b%E1%BA%A7u%20tr%E1%BB%9Di%20sao.jpg?v=1709539681023");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+  background-position: center center;
+  color: white;
+}
+.cot {
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+  font-size: 25px;
+  padding: 100px;
+}
+
+.column {
+  flex: 1;
+  text-align: center;
+}
+.icon1{
+  color: green;
+}
+.icon2{
+  color: pink;
+}
+.icon3{
+  color: red;
+}
+.icon4{
+  color: blue;
+}
+.c1{
+  color: white;
+}
+.c2{
+  color: yellow;
+}
